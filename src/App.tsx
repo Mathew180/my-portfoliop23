@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function P23HomePage() {
   return (
     <div className="bg-[#F6F6F6] font-sans text-[#0A3E35]">
